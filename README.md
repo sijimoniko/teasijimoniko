@@ -1,0 +1,2 @@
+# teasijimoniko
+about testnet tea
